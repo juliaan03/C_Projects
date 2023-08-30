@@ -1,3 +1,16 @@
+/*Write a code to print the following output 
+
+Output :
+*
+**
+***
+****
+*****
+****
+***
+**
+*
+*/
 #include<stdio.h>
 void main()
 {
